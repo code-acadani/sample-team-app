@@ -1,2 +1,0 @@
-class HenzeController < ApplicationController
-end
